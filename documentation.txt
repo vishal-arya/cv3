@@ -1,0 +1,45 @@
+what are favicons????
+favicons are fevoriote icons(visit favicons.cc for creating)
+
+
+2.box model
+experimets with margin, padding and border
+
+3.CSS positiing.
+ how to change relative position of a element
+ .cloud{
+    position: relative;
+    left: 250px;
+}
+
+
+****************************************************************************************************
+// how to centre everything in your website
+body{
+    margin: 0px;
+    background-color:rgb(159, 215, 247);
+    text-align: center;                                   // write this line of code and enjoy
+}
+***********************************************************************************************
+font sizing and designing
+ good web to see which font is rendeded more sakfely ..................visit   CSS font stack
+*********imp
+ font-family:verdana,sans-serif;
+the reson behind mentioning more fonts if first is not installed in sysytem it will go to the second one.
+you can go as many as you want.............................................
+handwritten font sacramento...
+mostly used fonts --- sans-serif
+
+*******************
+imp link for online accessing  all three important fonts
+https://fonts.googleapis.com/css?family=Merriweather|montserrat|sacramento
+very imp site for the commericial use  Flaticon
+ another is gifhy 
+
+
+
+1 em/rem= 16px always remebers
+
+
+for creating button 
+use website callsed   CSS button generator
